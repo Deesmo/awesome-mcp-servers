@@ -425,6 +425,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img height="12" width="12" src="https://pipedream.com/favicon.ico" alt="Pipedream Logo" /> [Pipedream](https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol) - Connect with 2,500 APIs with 8,000+ prebuilt tools, and manage servers for your users, in your own app.
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
+- [Arch AI Tools](https://archtools.dev) - 53 AI-powered tools in a single cloud-hosted MCP server. Web search, image generation, crypto prices, fact-checking, research reports, domain analysis, text-to-speech, and more. Pay per use in USDC on Base via x402 micropayments. Compatible with Claude Desktop, Cursor, and any MCP client.
+
 
 <br />
 
