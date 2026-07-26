@@ -437,6 +437,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
+- <img height="12" width="12" src="https://archtools.dev/arch-icon.svg" alt="Arch Tools Logo" /> [Arch Tools](https://archtools.dev) - Hosted MCP server with 64 production tools behind one API key: web search and scraping, AI generation, crypto data, OCR, transcription, email, and more. Pay per call with x402 USDC or Stripe credits; listed in the official MCP Registry as `io.github.Deesmo/arch-tools-mcp`.
+
 <br />
 
 ## 💬 <a name="language"></a>Language & Translation
